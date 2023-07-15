@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn1">Calculator</string>
+    <string name="btn2">^</string>
+    <string name="btn3">%</string>
+    <string name="btn4">Inv</string>
+    <string name="btn5">/</string>
+    <string name="btn6">*</string>
+    <string name="btn7">-</string>
+    <string name="btn8">+</string>
+    <string name="btn9">clear</string>
+    <string name="btn22">..........................</string>
+
+</resources>
